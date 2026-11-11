@@ -7,7 +7,7 @@ I'm a backend & cloud engineer. For 3+ years I've built Java/Spring Boot microse
 - 🔧 **Work:** REST APIs and microservices, cloud provisioning (VMs, VPCs, load balancers, security groups), Kubernetes/OpenShift automation, Keycloak SSO, CI/CD
 - 🎓 **Research:** MS CS at FAST-NUCES. My thesis verifies LLM-generated Kubernetes security fixes with attack graphs and live deployment tests
 - 🏅 BSCS Gold Medalist (MAJU)
-- 🌍 Based in Karachi · open to remote and Gulf (UAE / KSA) roles
+- 🌍 Based in Karachi · happy to connect
 
 **Stack**
 
